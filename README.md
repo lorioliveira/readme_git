@@ -1,9 +1,8 @@
-- 👋 Olá, sou a @lorioliveira
-- 👀 Possuo interesse com mundo front-end
-- 🌱 Atualmente estou focada na carreira de QA
-- 📫 Pode me encontrar no Linkedin que terei o prazer de responder
+# 👋 Olá, sou a Lorena (@lorioliveira)
 
-<!---
-lorioliveira/lorioliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.- 💞️ I’m looking to collaborate on ... - ✨ Gosto de estudar várias coisas
---->
+🎯 **Atualmente focada na carreira de QA**  
+🌱 Tenho interesse no mundo front-end e estou sempre em busca de aprender mais sobre tecnologia e desenvolvimento de software.
+
+🔗 **Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/lorena-oliveira-051996/)**, terei o prazer de conversar e trocar ideias sobre QA, desenvolvimento e inovação.
+
+📫 Fique à vontade para entrar em contato!
